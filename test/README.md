@@ -1,11 +1,11 @@
 
 ## Dominikov template
 
-template ktory sa da pouzit na pisomku
-staci vytvorit na pracovnej ploche priecinok
-otvorit visual studio code
-potiahnut novy priecinok do visual studia
-a napisat tieto commany
+template ktory sa da pouzit na pisomku.
+staci vytvorit na pracovnej ploche priecinok.
+otvorit visual studio code.
+potiahnut novy priecinok do visual studia.
+a napisat tieto commany.
 
 ## Commandy:
 
