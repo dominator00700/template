@@ -10,7 +10,7 @@ a napisat tieto commany.
 ## Commandy:
 
 ```bash
-npx create-next-app@latest --example https://github.com/dominator00700/template `<nazov>`
+npx create-next-app@latest --example https://github.com/dominator00700/template/tree/main/test `<nazov>`
 cd `<nazov>`
 npm run dev
 
