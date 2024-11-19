@@ -1,4 +1,3 @@
-
 // src/app/podmienky/page.tsx
 
 
